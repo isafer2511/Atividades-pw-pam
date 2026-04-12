@@ -1,6 +1,6 @@
-# Programação Web II
+# Atividades do Técnico
 
-Repositório destinado ao registro das atividades e projetos desenvolvidos na disciplina de PW no ano de 2026.
+Repositório destinado ao registro das atividades e projetos desenvolvidos na disciplina de Programação Web II e Programação de Aplicativos Mobile no ano de 2026.
 
 # Objetivo
 Organizar os projetos desenvolvidos em aula e materiais de estudo, registrando então, nosso progresso durante o curso de Desenvolvimento de Sistemas.
