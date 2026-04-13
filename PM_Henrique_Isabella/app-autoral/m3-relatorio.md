@@ -74,7 +74,7 @@ Em comparação com os modelos da apostila, é possível identificar diversas id
 
 Screen1
 
-<img src="images/screen1-print.jpeg" width="150">
+<img src="images/screen1-print.jpeg" width="200">
 
 Tela inicial
 
