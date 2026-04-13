@@ -69,55 +69,62 @@ Ocultação da visibilidade de componentes para promover maior interação entre
 ## 🖥 Print das telas do Design
 
 Screen1
-<img src="images/screen1-print.png" width="250">
+
+<img src="images/screen1-print.jpeg" width="250">
 
 Tela inicial
-<img src="images/inicial-print1.png" width="250">
-<img src="images/inicial-print2.png" width="250">
-<img src="images/inicial-print3.png" width="250">
+<img src="images/inicial-print1.jpeg" width="250">
+<img src="images/inicial-print2.jepg" width="250">
+<img src="images/inicial-print3.jpeg" width="250">
 
 Guia de Segurança
-<img src="images/guia-print1.png" width="250">
-<img src="images/guia-print2.png" width="250">
+<img src="images/guia-print1.jpeg" width="250">
+<img src="images/guia-print2.jpeg" width="250">
 
 Linha do Tempo
-<img src="images/linha-print1.png" width="250">
-<img src="images/linha-print2.png" width="250">
+<img src="images/linha-print1.jpeg" width="250">
+<img src="images/linha-print2.jpeg" width="250">
 
 Principais Conflitos
-<img src="images/conflitos-print1.png" width="250">
-<img src="images/conflitos-print2.png" width="250">
+<img src="images/conflitos-print1.jpeg" width="250">
+<img src="images/conflitos-print2.jpeg" width="250">
 
 GeoQuiz
-<img src="images/map2-print1.png" width="250">
-<img src="images/map2-print2.png" width="250">
-<img src="images/map-print1.png" width="250">
-<img src="images/map-print2.png" width="250">
-<img src="images/mapfim-print.png" width="250">
+<img src="images/map2-print1.jpeg" width="250">
+<img src="images/map2-print2.jpeg" width="250">
+<img src="images/map-print1.jpeg" width="250">
+<img src="images/map-print2.jpeg" width="250">
+<img src="images/mapfim-print.jpeg" width="250">
 
 Exemplo Menu do Guia de Segurança
-<img src="images/menuguia-print.png" width="250">
+<img src="images/menuguia-print.jpeg" width="250">
 
 
 
 ## 🧩 Print das telas dos Blocos
 
 Screen 1
+
 <img src="images/screen1-blocks.png" width="250">
 
 Tela inicial
+
 <img src="images/inicial-blocks.png" width="250">
 
 Guia de Segurança
+
 <img src="images/guia-blocks.png" width="250">
 
 Linha do Tempo
+
 <img src="images/linha-blocks.png" width="250">
 
 Principais Conflitos
+
 <img src="images/conflitos-blocks.png" width="250">
 
 GeoQuiz (início, quiz e fim)
+
 <img src="images/map2-blocks.png" width="250">
-<img src="images/map-blocks.png" width="250">
+<img src="images/map-blocks.png" width="550">
 <img src="images/mapfim-blocks.png" width="250">
