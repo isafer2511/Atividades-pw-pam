@@ -78,36 +78,36 @@ Screen1
 
 Tela inicial
 
-<img src="images/inicial-print1.jpeg" width="150">
-<img src="images/inicial-print2.jpeg" width="150">
-<img src="images/inicial-print3.jpeg" width="150">
+<img src="images/inicial-print1.jpeg" width="190">
+<img src="images/inicial-print2.jpeg" width="190">
+<img src="images/inicial-print3.jpeg" width="190">
 
 Guia de Segurança
 
-<img src="images/guia-print1.jpeg" width="150">
-<img src="images/guia-print2.jpeg" width="150">
+<img src="images/guia-print1.jpeg" width="190">
+<img src="images/guia-print2.jpeg" width="190">
 
 Linha do Tempo
 
-<img src="images/linha-print1.jpeg" width="150">
-<img src="images/linha-print2.jpeg" width="150">
+<img src="images/linha-print1.jpeg" width="190">
+<img src="images/linha-print2.jpeg" width="190">
 
 Principais Conflitos
 
-<img src="images/conflitos-print1.jpeg" width="150">
-<img src="images/conflitos-print2.jpeg" width="150">
+<img src="images/conflitos-print1.jpeg" width="190">
+<img src="images/conflitos-print2.jpeg" width="190">
 
 GeoQuiz
 
-<img src="images/map2-print1.jpeg" width="150">
-<img src="images/map2-print2.jpeg" width="150">
-<img src="images/map-print1.jpeg" width="150">
-<img src="images/map-print2.jpeg" width="150">
-<img src="images/mapfim-print.jpeg" width="150">
+<img src="images/map2-print1.jpeg" width="190">
+<img src="images/map2-print2.jpeg" width="190">
+<img src="images/map-print1.jpeg" width="190">
+<img src="images/map-print2.jpeg" width="190">
+<img src="images/mapfim-print.jpeg" width="190">
 
 Exemplo Menu do Guia de Segurança
 
-<img src="images/menuguia-print.jpeg" width="150">
+<img src="images/menuguia-print.jpeg" width="190">
 
 
 
