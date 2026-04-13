@@ -21,6 +21,7 @@ Guerras do Oriente
 
 O nosso aplicativo tem como objetivo informar o usuário sobre os conflitos no Oriente Médio, apresentando conteúdos educativos como uma linha do tempo histórica, explicações dos principais conflitos e um guia de segurança baseado em recomendações da ONU, além de reforçar o aprendizado da geografia dessa região de forma prática por meio de um jogo interativo.
 
+
 O aplicativo, ao ser acessado na tela 1, possui uma tela que apresenta o aplicativo e as opções de navegação. Essa tela apresenta as seções do aplicativo, que incluem:
 - Guia de Segurança: As medidas básicas de segurança para civis em áreas de guerra recomendadas pela ONU divididas em “O que fazer em uma emergência” e “Protocolos de Abrigo” e um “Checklist de Emergência” com itens recomendados para se manter em um contexto de guerra.
 - Linha do Tempo: Linha visual com os anos que marcaram os principais acontecimentos do Oriente Médio a partir da Segunda Guerra Mundial.
@@ -37,11 +38,13 @@ A tela inicial do “GeoQuiz” possui uma prévia do mapa com as identificaçõ
 
 Vale ressaltar que cada tela possui um menu no canto superior esquerdo, indicando as opções de navegação disponíveis a partir daquela tela – ou seja, a tela do guia de segurança possui em seu menu apenas as opções de início, linha do tempo, principais conflitos e geoquiz.
 
+
 Os conceitos utilizados da apostila são:
 - Eventos (clique de botão, envio de resposta),
 - Manipulação de telas (troca entre screens),
 - Design eficiente (uso de arrangements),
 - Design agradável (cores de fundo e do texto para personalização).
+
 
 Foram utilizados componentes de diversas seções oferecidas, como user interface, layout, sensors e storage, estando entre eles:
 - TextBox: entrada de respostas do usuário;
@@ -58,46 +61,53 @@ Foram utilizados componentes de diversas seções oferecidas, como user interfac
 
 Em relação aos recursos de lógica, vale a pena enfatizar a utilização de variáveis globais, procedimentos, estruturas condicionais (if, else if, else), bem como o sensor de tempo e o componente de armazenamento tinydb.
 
+
 Em comparação com os modelos da apostila, é possível identificar diversas ideias novas aplicadas no aplicativo, como:
-Adição de tempo de duração do quiz com um sensor;
-Sistema de pontuação e feedback em tempo real conforme o usuário interage com o aplicativo;
-Botão de encerrar o jogo, alterando o comportamento da tela final;
-Uso de variáveis para armazenar pontuação, tempo, respostas;
-Uso de listas para o sistema de perguntas e respostas e a exibição de arrangements conforme a intenção do usuário;
-Ocultação da visibilidade de componentes para promover maior interação entre usuário e aplicativo.
+- Adição de tempo de duração do quiz com um sensor;
+- Sistema de pontuação e feedback em tempo real conforme o usuário interage com o aplicativo;
+- Botão de encerrar o jogo, alterando o comportamento da tela final;
+- Uso de variáveis para armazenar pontuação, tempo, respostas;
+- Uso de listas para o sistema de perguntas e respostas e a exibição de arrangements conforme a intenção do usuário;
+- Ocultação da visibilidade de componentes para promover maior interação entre usuário e aplicativo.
 
 ## 🖥 Print das telas do Design
 
 Screen1
 
-<img src="images/screen1-print.jpeg" width="250">
+<img src="images/screen1-print.jpeg" width="150">
 
 Tela inicial
-<img src="images/inicial-print1.jpeg" width="250">
-<img src="images/inicial-print2.jepg" width="250">
-<img src="images/inicial-print3.jpeg" width="250">
+
+<img src="images/inicial-print1.jpeg" width="150">
+<img src="images/inicial-print2.jpeg" width="150">
+<img src="images/inicial-print3.jpeg" width="150">
 
 Guia de Segurança
-<img src="images/guia-print1.jpeg" width="250">
-<img src="images/guia-print2.jpeg" width="250">
+
+<img src="images/guia-print1.jpeg" width="150">
+<img src="images/guia-print2.jpeg" width="150">
 
 Linha do Tempo
-<img src="images/linha-print1.jpeg" width="250">
-<img src="images/linha-print2.jpeg" width="250">
+
+<img src="images/linha-print1.jpeg" width="150">
+<img src="images/linha-print2.jpeg" width="150">
 
 Principais Conflitos
-<img src="images/conflitos-print1.jpeg" width="250">
-<img src="images/conflitos-print2.jpeg" width="250">
+
+<img src="images/conflitos-print1.jpeg" width="150">
+<img src="images/conflitos-print2.jpeg" width="150">
 
 GeoQuiz
-<img src="images/map2-print1.jpeg" width="250">
-<img src="images/map2-print2.jpeg" width="250">
-<img src="images/map-print1.jpeg" width="250">
-<img src="images/map-print2.jpeg" width="250">
-<img src="images/mapfim-print.jpeg" width="250">
+
+<img src="images/map2-print1.jpeg" width="150">
+<img src="images/map2-print2.jpeg" width="150">
+<img src="images/map-print1.jpeg" width="150">
+<img src="images/map-print2.jpeg" width="150">
+<img src="images/mapfim-print.jpeg" width="150">
 
 Exemplo Menu do Guia de Segurança
-<img src="images/menuguia-print.jpeg" width="250">
+
+<img src="images/menuguia-print.jpeg" width="150">
 
 
 
