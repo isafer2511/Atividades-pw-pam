@@ -127,11 +127,11 @@ Guia de Segurança
 
 Linha do Tempo
 
-<img src="images/linha-blocks.png" width="550">
+<img src="images/linha-blocks.png" width="350">
 
 Principais Conflitos
 
-<img src="images/conflitos-blocks.png" width="550">
+<img src="images/conflitos-blocks.png" width="350">
 
 GeoQuiz (início, quiz e fim)
 
